@@ -1,0 +1,1 @@
+# qualidade_soft_pratica_git
